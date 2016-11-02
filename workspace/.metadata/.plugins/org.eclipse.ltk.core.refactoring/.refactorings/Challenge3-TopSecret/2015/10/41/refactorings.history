@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TextIO.java&apos; to &apos;PairProgramming/(default package)&apos;&#x0A;- Original project: &apos;Challenge3-TopSecret&apos;&#x0A;- Destination element: &apos;PairProgramming/(default package)&apos;&#x0A;- Original element: &apos;TextIO.java&apos;" description="Copy compilation unit" destination="=PairProgramming/&lt;" element1="/&lt;{TextIO.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1444002417543" units="1" version="1.0"/>
+</session>

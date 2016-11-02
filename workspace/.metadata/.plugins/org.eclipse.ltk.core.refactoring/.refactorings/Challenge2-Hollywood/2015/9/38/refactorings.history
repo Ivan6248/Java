@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TextIO.java&apos; to &apos;In-Class/src/(default package)&apos;&#x0A;- Original project: &apos;Challenge2-Hollywood&apos;&#x0A;- Destination element: &apos;In-Class/src/(default package)&apos;&#x0A;- Original element: &apos;TextIO.java&apos;" description="Copy compilation unit" destination="=In-Class/src&lt;" element1="/&lt;{TextIO.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1442429395935" units="1" version="1.0"/>
+</session>

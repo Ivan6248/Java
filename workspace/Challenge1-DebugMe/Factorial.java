@@ -1,0 +1,26 @@
+//UIUC CS125 FALL 2014 MP. File: Factorial.java, CS125 Project: Challenge1-DebugMe, Version: 2015-09-07T21:58:15-0500.221514203
+
+/**
+ * A program to calculate a factorial. The given code may contain errors. Fix the
+ * given code and add additional code to calculate a factorial and pass the unit
+ * tests. Hint sometimes an 'int' just 'aint big enough.
+ * 
+ * @see Factorial-ReadMe.txt for details on how to complete this program.
+ * @author ivanng3
+ */
+public class Factorial {
+	public static void main(String[] args) {
+		int x = 0;
+		long result = 1;
+		while (x < 1 || x >=21) {
+			System.out.println("Enter a number between 1 and 20 inclusive.");
+			x= TextIO.getlnInt();
+		}
+		int factorial = x;
+		while (x > 1){
+			result= result * x;
+			x --;
+		}
+		TextIO.putln(factorial + "! = " + result);
+	}
+}
